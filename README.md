@@ -8,7 +8,7 @@
   [![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-  ![App Screenshot](public/placeholder.svg)
+  ![App Screenshot](./public/project-ss.png)
 </div>
 
 ## ✨ Features
